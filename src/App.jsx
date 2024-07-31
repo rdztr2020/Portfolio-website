@@ -12,9 +12,11 @@ function App() {
     return (
     <>
     <Hero/> 
+    <br />
     <Projects/> 
     <br />
-    <Skills/>  
+    <Skills/>
+    <br />  
     <Contact/>
     <br />
     <Footer/>
