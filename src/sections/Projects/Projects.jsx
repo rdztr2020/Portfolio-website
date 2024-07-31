@@ -12,25 +12,25 @@ function Projects() {
     <div className={styles.projectsContainer}>
         <ProjectCard 
         src={viberr} 
-        link="https://github.com/Ade-mir/react-js-personal-portfolio/"
+        link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Viberr"
         p="Streaming App"
         />
         <ProjectCard 
         src={freshBurger} 
-        link="https://github.com/Ade-mir/react-js-personal-portfolio/"
+        link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Fresh Burger"
         p="Burger Joint"
         />
         <ProjectCard 
         src={hipsster} 
-        link="https://github.com/Ade-mir/react-js-personal-portfolio/"
+        link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Hippster"
         p="Glasses Shop"
         />
         <ProjectCard 
         src={fitlift} 
-        link="https://github.com/Ade-mir/react-js-personal-portfolio/"
+        link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Fit Lift"
         p="Fitness App"
         />
