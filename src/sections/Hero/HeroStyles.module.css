@@ -74,6 +74,7 @@
   
   .description {
     max-width: 24ch;
+    font-weight: 400;
   }
   
   .info {
