@@ -14,7 +14,7 @@
 
     
   
-    span {
+    .span {
       display: flex;
       gap: 25px;
       justify-content: center;
