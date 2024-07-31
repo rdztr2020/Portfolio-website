@@ -40,21 +40,22 @@
       max-width: fit-content;
       gap: 30px;
       
+      
   
       p {
         font-size: 20px;
+      
       }
     
    
   
-    hr {
-      width: 300px;
-    }
+    
 }
 hr {
   width: 300px;
 }
 }
+
 
 
   
