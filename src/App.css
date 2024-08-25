@@ -39,7 +39,7 @@ h1, h2, h3, p{
 }
 
 h2,h3,p{
-    font-family: 'Rubik', monospace;
+    font-family: sans-serif, monospace;
 }
 
 h1, h2{
@@ -50,7 +50,7 @@ h1, h2{
  }
 
  h1{
-    font-family: 'rubik',sans-serif;
+    font-family: sans-serif, monospace;
     font-size: 32px;
  }
 

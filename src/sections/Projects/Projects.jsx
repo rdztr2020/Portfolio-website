@@ -4,6 +4,8 @@ import freshBurger from '../../Assets/fresh-burger.png';
 import ProjectCard from '../../common/ProjectCard';
 import hipsster from '../../Assets/hipsster.png'
 import fitlift from '../../Assets/fitlift.png'
+import nerd from '../../Assets/nerd.png'
+import forsale from '../../Assets/For-Sale-1200x800.jpg'
 
 function Projects() {
   return (
@@ -11,16 +13,16 @@ function Projects() {
     <h1 className='sectionTitle'>Projects</h1>
     <div className={styles.projectsContainer}>
         <ProjectCard 
-        src={viberr} 
+        src={nerd} 
         link="https://github.com/rdztr2020/Portfolio-website/"
-        h3="Viberr"
-        p="Streaming App"
+        h3="The Nerd"
+        p="Portfolio Page"
         />
         <ProjectCard 
-        src={freshBurger} 
-        link="https://github.com/rdztr2020/Portfolio-website/"
-        h3="Fresh Burger"
-        p="Burger Joint"
+        src={forsale} 
+        link="https://github.com/rdztr2020/mern-course/"
+        h3="The Store"
+        p="Mongo Database"
         />
         <ProjectCard 
         src={hipsster} 
