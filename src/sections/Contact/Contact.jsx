@@ -4,7 +4,8 @@ function Contact() {
   return (
     <section id="contact" className={styles.container}>
       <h1 className="sectionTitle">Contact</h1>
-      <form action="" >
+      <form action="https://api.web3forms.com/submit" method="POST" >
+      <input type="hidden" name="access_key" value="17940ebf-b83b-4acb-9c5c-d6d5ada5d4e4"></input>
         <div className="formGroup"  >
           <label htmlFor="name" hidden>
             Name

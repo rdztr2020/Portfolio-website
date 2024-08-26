@@ -17,24 +17,30 @@ function Projects() {
         link="https://github.com/rdztr2020/Portfolio-website/"
         h3="The Nerd"
         p="Portfolio Page"
+        
         />
         <ProjectCard 
         src={forsale} 
-        link="https://github.com/rdztr2020/mern-course/"
+        link="https://mern-course-jta1.onrender.com/"
+        //"https://github.com/rdztr2020/mern-course/"
         h3="The Store"
         p="Mongo Database"
+        
+        
         />
         <ProjectCard 
         src={hipsster} 
         link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Hippster"
         p="Glasses Shop"
+        
         />
         <ProjectCard 
         src={fitlift} 
         link="https://github.com/rdztr2020/Portfolio-website/"
         h3="Fit Lift"
         p="Fitness App"
+        
         />
 
     </div>
