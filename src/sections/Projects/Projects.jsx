@@ -31,7 +31,8 @@ function Projects() {
         />
         <ProjectCard 
         src={login} 
-        link="https://github.com/rdztr2020/mern-auth"
+        link='https://mern-course-jta1.onrender.com/'
+        //"https://github.com/rdztr2020/mern-auth"
         h3="Sign In"
         p="Authenticate"
         
