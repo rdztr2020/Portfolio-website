@@ -24,14 +24,14 @@ function Projects() {
         src={forsale} 
         link="https://mern-course-jta1.onrender.com/"
         //"https://github.com/rdztr2020/mern-course/"
-        h3="The Store"
+        h3="Nerd Store"
         p="Mongo Database"
         
         
         />
         <ProjectCard 
         src={login} 
-        link='https://mern-course-jta1.onrender.com/'
+        link='https://mern-auth-zeta-lilac.vercel.app/'
         //"https://github.com/rdztr2020/mern-auth"
         h3="Sign In"
         p="Authenticate"
