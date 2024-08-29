@@ -6,6 +6,7 @@ import hipsster from '../../Assets/hipsster.png'
 import fitlift from '../../Assets/fitlift.png'
 import nerd from '../../Assets/nerd.png'
 import forsale from '../../Assets/For-Sale-1200x800.jpg'
+import login from './signin.png'
 
 function Projects() {
   return (
@@ -29,10 +30,10 @@ function Projects() {
         
         />
         <ProjectCard 
-        src={hipsster} 
-        link="https://github.com/rdztr2020/Portfolio-website/"
-        h3="Hippster"
-        p="Glasses Shop"
+        src={login} 
+        link="https://github.com/rdztr2020/mern-auth"
+        h3="Sign In"
+        p="Authenticate"
         
         />
         <ProjectCard 
