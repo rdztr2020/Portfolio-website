@@ -9,7 +9,7 @@ import githubLight from '../../Assets/github-light.svg';
 import githubDark from '../../Assets/github-dark.svg';
 import linkedinLight from '../../Assets/linkedin-light.svg';
 import linkedinDark from '../../Assets/linkedin-dark.svg';
-import CV from "../../Assets/cv.pdf";
+import CV from "../../sections/Hero/nerd.png";
 import { useTheme } from '../../common/ThemeContext';
 
 function Hero() {
