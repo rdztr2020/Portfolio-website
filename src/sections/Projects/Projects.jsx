@@ -2,7 +2,7 @@ import styles from './ProjectsStyles.module.css';
 ////import freshBurger from '../../Assets/fresh-burger.png';
 import ProjectCard from '../../common/ProjectCard';
 //import hipsster from '../../Assets/hipsster.png'
-import fitlift from '../../Assets/fitlift.png'
+import gordos from '../../Assets/logo-svg.svg'
 import nerd from '../../Assets/nerd.png'
 import forsale from '../../Assets/For-Sale-1200x800.jpg'
 import login from './signin.png'
@@ -37,10 +37,10 @@ function Projects() {
         
         />
         <ProjectCard 
-        src={fitlift} 
-        link="https://github.com/rdztr2020/Portfolio-website/"
-        h3="Fit Lift"
-        p="Fitness App"
+        src={gordos} 
+        link="https://gordomikes.netlify.app/"
+        h3="Gordo Mikes BBQ"
+        p="BBQ Restaurant"
         
         />
 
