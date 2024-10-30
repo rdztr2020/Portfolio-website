@@ -38,7 +38,7 @@ function Projects() {
         />
         <ProjectCard 
         src={gordos} 
-        link="https://gordomikes.netlify.app/"
+        link="https://gordomikesbbq.netlify.app/"
         h3="Gordo Mikes BBQ"
         p="BBQ Restaurant"
         
