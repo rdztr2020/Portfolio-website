@@ -1,8 +1,8 @@
 import styles from './ProjectsStyles.module.css';
-////import freshBurger from '../../Assets/fresh-burger.png';
+
 import ProjectCard from '../../common/ProjectCard';
-//import hipsster from '../../Assets/hipsster.png'
-import gordos from '../../Assets/logo-svg.svg'
+
+import gordos from '../../Assets/bbqlogo.jpg'
 import nerd from '../../Assets/nerd.png'
 import forsale from '../../Assets/For-Sale-1200x800.jpg'
 import login from './signin.png'
@@ -36,7 +36,7 @@ function Projects() {
         p="Authenticate"
         
         />
-        <ProjectCard 
+        <ProjectCard          
         src={gordos} 
         link="https://gordomikesbbq.netlify.app/"
         h3="Gordo Mikes BBQ"
