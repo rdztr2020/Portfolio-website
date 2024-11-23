@@ -10,9 +10,10 @@
     .hero {
       max-width: 200px;
       border-radius: 500px;
+      
     }
 
-    
+   
   
     .span {
       display: flex;
@@ -75,12 +76,14 @@
   .description {
     max-width: 24ch;
     font-weight: 400;
+    
   }
   
   .info {
     display: flex;
     flex-direction: column;
     gap: 20px;
+    align-items:center;
   }
   
   @media (width >= 800px) {
