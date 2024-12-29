@@ -2,7 +2,7 @@ import styles from './ProjectsStyles.module.css';
 
 import ProjectCard from '../../common/ProjectCard';
 
-import gordos from '../../Assets/bbqlogo.jpg'
+import gordos from '../../Assets/gordologo.jpg'
 import nerd from '../../Assets/nerd.png'
 import forsale from '../../Assets/For-Sale-1200x800.jpg'
 import login from './signin.png'
@@ -21,8 +21,8 @@ function Projects() {
         />
         <ProjectCard 
         src={forsale} 
-        link="https://mern-course-jta1.onrender.com/"
-        //"https://github.com/rdztr2020/mern-course/"
+        // link="https://mern-course-jta1.onrender.com/"
+        link="https://github.com/rdztr2020/mern-course/"
         h3="Nerd Store"
         p="Mongo Database"
         
@@ -30,15 +30,15 @@ function Projects() {
         />
         <ProjectCard 
         src={login} 
-        link='https://mern-auth-zeta-lilac.vercel.app/'
-        //"https://github.com/rdztr2020/mern-auth"
+        //link='https://mern-auth-zeta-lilac.vercel.app/'
+        link="https://github.com/rdztr2020/mern-auth"
         h3="Sign In"
         p="Authenticate"
         
         />
         <ProjectCard          
         src={gordos} 
-        link="https://gordomikesbbq.netlify.app/"
+        link="https://gordomikesbbq.com/"
         h3="Gordo Mikes BBQ"
         p="BBQ Restaurant"
         
