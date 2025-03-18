@@ -30,8 +30,7 @@ function Projects() {
         />
         <ProjectCard 
         src={login} 
-        //link='https://mern-auth-zeta-lilac.vercel.app/'
-        link="https://github.com/rdztr2020/mern-auth"
+        link='https://mern-auth-isuq.vercel.app/'
         h3="Sign In"
         p="Authenticate"
         
