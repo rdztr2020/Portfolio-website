@@ -14,7 +14,8 @@ function Projects() {
     <div className={styles.projectsContainer}>
         <ProjectCard 
         src={nerd} 
-        link="https://github.com/rdztr2020/Portfolio-website/"
+        // link="https://github.com/rdztr2020/Portfolio-website/"
+        link="https://sleeonline.netlify.app"
         h3="The Nerd"
         p="Portfolio Page"
         
