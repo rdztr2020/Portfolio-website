@@ -23,7 +23,7 @@ function Projects() {
         <ProjectCard 
         src={forsale} 
         // link="https://mern-course-jta1.onrender.com/"
-        link="https://github.com/rdztr2020/mern-course/"
+        link="https://github.com/rdztr2020/NERDSTORE/"
         h3="Nerd Store"
         p="Mongo Database"
         
